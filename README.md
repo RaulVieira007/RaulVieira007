@@ -7,9 +7,7 @@ Oi! Me chamo Raul Vieira, tenho 23 anos e sou de São Paulo - SP. Atualmente est
 
 📫 Me chama por aqui:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/raul-vieira-0a63911b9)  
-[![Instagram](https://img.shields.io/badge/@raul_v1e1ra-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/raul_v1e1ra)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/raul-vieira-0a63911b9)
 ---
 
 🤖 Tecnologias que uso / estudo
