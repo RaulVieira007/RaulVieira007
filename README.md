@@ -2,7 +2,7 @@
 
 Oi! Me chamo **Raul Vieira**, tenho **23 anos** e sou de **São Paulo - SP**.  
 Concluí o **bootcamp da [Generation Brasil](https://brazil.generation.org/)** em **Desenvolvimento FullStack**, com foco em **JavaScript** e **Node.js**.  
-Sou uma pessoa **curioso, determinado e apaixonado por tecnologia**.
+Sou uma pessoa **curiosa, determinada e apaixonada por tecnologia**.
 
 🎮 No meu tempo livre, gosto de viajar por mundos infinitos em **jogos de RPG de mundo aberto**, onde a imaginação não tem limites.  
 
